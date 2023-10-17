@@ -1,0 +1,18 @@
+.cat-container > img{
+    max-height: 25em;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.switch-button{
+    background-color:  #f3eee7;
+    box-shadow: 5px 5px 5px #834b7a;
+    height: 5vh;
+    border: none;
+    border-radius: 5%;
+    cursor: pointer;
+    align-self: center;
+    justify-content: center;
+}
